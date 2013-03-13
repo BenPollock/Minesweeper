@@ -4,4 +4,4 @@ This is a minesweeper applet created by me in 2008.  It has a graphical interfac
 
 The application also includes a scoring system based upon the number of mines in the field, and the time taken to solve the puzzle.
 
-Open BasicMinweeper.html to play.  Left click to open square, right click to flag a mine.  Goodluck!
+Open BasicMinsweeper.html to play.  Left click to open square, right click to flag a mine.  Goodluck!
